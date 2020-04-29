@@ -1,1 +1,3 @@
-# ts-nextjs-boilerplate
+# README #
+
+Boilerplate for NEXT.JS app with TypeScript
